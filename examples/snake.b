@@ -1,3 +1,6 @@
+#lmao1234
+
+
 # program memory map (after framebuffer):
 #   0:  memory start marker for gliders
 #   1:  player position/hole
